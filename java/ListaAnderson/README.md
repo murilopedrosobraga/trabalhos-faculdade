@@ -1,18 +1,34 @@
-## Getting Started
+## Lista de Exercícios – Análise e Projeto de Algoritmos - Prof. Anderson Macedo Atividade prática em laboratório 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+#### Atividade 1
 
-## Folder Structure
+A partir do saldo bancário inicial, um cliente teve débitos e créditos ao longo do mês. Faça um  algoritmo para ler o saldo inicial, o total de débitos e o total de créditos, e depois imprima o saldo final do  cliente através da mensagem “Saldo positivo em R$ XXX” ou “Saldo negativo em R$ XXX” ou “Saldo  zero”. 
 
-The workspace contains two folders by default, where:
+#### Atividade 2
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O índice da massa corpórea (IMC) é calculado através da seguinte fórmula: 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+IMC = peso (Kg) / (altura x altura) 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Faça um algoritmo para calcular e imprimir o IMC de uma pessoa, e depois exibir uma das seguintes  mensagens: 
 
-## Dependency Management
+|IMC|Classificação|
+|---|---|
+|< 18.5|Abaixo do peso| 
+|18.6 a 25|Peso normal|
+|25.1 a 30|Sobrepeso|
+|30.1 a 30|Obeso leve|
+|35.1 a 40|Obeso moderado|
+|> 40.1|Obeso m|
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### Atividade 3
+
+Uma máquina virtual recebe um valor e imprime o seu quadrado quando ele é par, e o seu cubo  quando ele é ímpar. Faça o algoritmo para esta máquina. 
+
+#### Atividade 4
+
+Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor. 
+
+#### Atividade 5
+
+Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
