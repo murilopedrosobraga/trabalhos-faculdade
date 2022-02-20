@@ -10,11 +10,11 @@ public class saldo {
         double saldoInit = teclado.nextDouble();
         System.out.println("%n");
 
-        System.out.println("Digite a quantidade de créditos: ");
+        System.out.println("Digite a quantidade de creditos: ");
         double credito = teclado.nextDouble();
         System.out.println("%n");
 
-        System.out.println("Digite a quantidade de débitos: ");
+        System.out.println("Digite a quantidade de debitos: ");
         double debito = teclado.nextDouble();
         System.out.println("%n");
 
