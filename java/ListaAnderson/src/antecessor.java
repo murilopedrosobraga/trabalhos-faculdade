@@ -9,5 +9,6 @@ public class antecessor {
 
         System.out.println("O valor " + val + ", tem como seu antecessor o numero: " + (val-1));
 
+        teclado.close();
     }
 }
